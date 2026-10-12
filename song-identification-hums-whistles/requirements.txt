@@ -1,0 +1,7 @@
+librosa
+scikit-learn
+scikit-image
+numpy
+pandas
+matplotlib
+tqdm
